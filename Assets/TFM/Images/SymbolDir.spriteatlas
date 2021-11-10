@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SymbolDir
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bfae05318269c384ca0bfddd600c6abf, type: 3}
+    totalSpriteSurfaceArea: 606208
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f7dabf00e3cb78b4cb84586cf73ba5c2, type: 3}
+  - {fileID: 21300000, guid: d9b380706c6b38b47b96d10fabdf7178, type: 3}
+  - {fileID: 21300000, guid: 114305f0852c15640b8f0caecdf2f54f, type: 3}
+  - {fileID: 21300000, guid: ec52e621cd22d114ebcc3364f9f19210, type: 3}
+  - {fileID: 21300000, guid: 3baac081b0ad7004fafe70b82aaf4983, type: 3}
+  - {fileID: 21300000, guid: cb9440c12ada4c44caedcb4b81af84ac, type: 3}
+  - {fileID: 21300000, guid: a2fde3f1440786949bb8c2ef33d5fbbc, type: 3}
+  - {fileID: 21300000, guid: 3281bf02e9a4fd649b6e9f2d871bb461, type: 3}
+  - {fileID: 21300000, guid: d15be8926e9605141a37e93d8256e42a, type: 3}
+  - {fileID: 21300000, guid: 8f62ab24aea8de94da1bde5c63334efc, type: 3}
+  - {fileID: 21300000, guid: 3aa9967430493c142937e0b2812f44e2, type: 3}
+  - {fileID: 21300000, guid: 22f8cca5c03b8fb4a899e1112fff388a, type: 3}
+  - {fileID: 21300000, guid: f1f58b87095ac414892c6117be0b8d12, type: 3}
+  - {fileID: 21300000, guid: f7d35ce727adf6f46a8c64dc89f293a2, type: 3}
+  - {fileID: 21300000, guid: 0bc33639ee92ca2438093f08da2a906a, type: 3}
+  - {fileID: 21300000, guid: 24c9d9f970312904ebfdd3ed8ced4ecd, type: 3}
+  - {fileID: 21300000, guid: c09c09da36f3b8f47ac330c0d0aeca2d, type: 3}
+  - {fileID: 21300000, guid: 3c33b80b1bb10164fa2182f440092ac9, type: 3}
+  - {fileID: 21300000, guid: 8d46eb2c2354115459f5365a5126273f, type: 3}
+  - {fileID: 21300000, guid: 2204f3ec5f6b2144cb8ff1347163c34d, type: 3}
+  - {fileID: 21300000, guid: d8718decdb439ca4c8d9812264101192, type: 3}
+  - {fileID: 21300000, guid: a0498d9ea6aa33f459b536935249f910, type: 3}
+  - {fileID: 21300000, guid: 5aee66ce73f7e614f88cb9367a84da9f, type: 3}
+  - {fileID: 21300000, guid: 4b5fac8f57b0ed8419857d02c47801d7, type: 3}
+  - {fileID: 21300000, guid: 0f925f8f558dd6144a3000de3febe87c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - animal
+  - greenery-tile
+  - special-tile
+  - o2
+  - steel
+  - money
+  - tag-city
+  - credits_plus
+  - plant
+  - energy
+  - tag-animal
+  - heat
+  - tag-building
+  - temp
+  - vp
+  - titanium
+  - tag-science
+  - tag-plant
+  - tag-microbe
+  - city-tile
+  - tag-jovian
+  - tag-power
+  - tag-space
+  - tag-earth
+  - ocean-tile
+  m_RenderDataMap: {}
+  m_Tag: SymbolDir
+  m_IsVariant: 0
